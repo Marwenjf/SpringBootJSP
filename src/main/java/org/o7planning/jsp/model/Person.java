@@ -1,4 +1,4 @@
-package org.o7planning.jsp.model;
+package org.opg.jsp.model;
 
 public class Person {
     private String firstName;
