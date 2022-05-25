@@ -1,4 +1,4 @@
-package org.o7planning.jsp.controller;
+package org.opg.jsp.controller;
 
 import org.o7planning.jsp.model.Person;
 import org.springframework.stereotype.Controller;
